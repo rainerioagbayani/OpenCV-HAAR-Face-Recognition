@@ -1,5 +1,5 @@
 # Face-Recognition
-Face detection and Recognition using OpenCV-python
+Face detection and Recognition using OpenCV Haar Cascade
 
 A console based application 
 
@@ -32,7 +32,7 @@ We are using LBPH (Local Binary Patterns Histograms ) classifier to recognize th
 
 - JSON
 
-## How to run??
+## How to run
 
 1. Run create.py file to create a dataset by providing name and id, it will capture 20 images and store in dataset and convert into array, store in trainner.yml file.
 
